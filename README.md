@@ -4,9 +4,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-![Image](./client/assets/Screenshot%202022-08-07%20210010.png)
-
 https://opensource.org/licenses/Apache-2.0
+
+![Image](./client/assets/Screenshot%202022-08-07%20210010.png)
 
 [Deployed Site](https://whispering-beach-38650.herokuapp.com/)
 
